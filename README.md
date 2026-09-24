@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aditi Shukla</h1>
-<h3 align="center">Computer Science Engineering Student • Full Stack Web Developer • SIH Builder</h3>
+# Hi 👋, I'm Aditi Shukla
+
+### Computer Science Engineering Student • Full Stack Web Developer 
 
 <p align="center">
-Building secure, responsive web applications and solving real-world problems through technology.
+  Building secure, responsive web applications and solving real-world problems through technology.
 </p>
 
 <p align="center">
@@ -24,12 +25,12 @@ Building secure, responsive web applications and solving real-world problems thr
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Full Stack Web Developer (MERN)
-- 🌱 Currently exploring **PHP, Prisma, PostgreSQL, and System Design**
-- 🏆 Smart India Hackathon participant
-- 🧩 Solved **100+ LeetCode** problems and continuously improving problem-solving skills.
-- 🎯 Passionate about building scalable products that create real-world impact.
+* 🎓 Computer Science Engineering Student
+* 💻 Full Stack Web Developer (MERN)
+* 🌱 Currently learning **PHP, Prisma, PostgreSQL, and System Design**
+* 🏆 Smart India Hackathon Participant
+* 🧩 Solved **100+ LeetCode** problems
+* 🎯 Passionate about building scalable products with real-world impact.
 
 ---
 
@@ -38,55 +39,55 @@ Building secure, responsive web applications and solving real-world problems thr
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html,css"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,canva,photoshop" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,canva,photoshop"/>
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **UShort** | Full Stack URL Shortener with analytics | React, Node.js, Express, MongoDB |
-| **TS-One** | Unified Scholarship Platform for Scheduled Tribe Students (SIH) | React, Express, Prisma, PostgreSQL |
-| **E-ShikshaSarthi** | Scholarship & student assistance platform | React, Tailwind |
-| **Nirikshak** | AI-powered compliance verification platform | Python, PostgreSQL |
+| Project             | Description                                                     | Tech                               |
+| ------------------- | --------------------------------------------------------------- | ---------------------------------- |
+| **UShort**          | Full Stack URL Shortener with analytics                         | React, Node.js, Express, MongoDB   |
+| **TS-One**          | Unified Scholarship Platform for Scheduled Tribe Students (SIH) | React, Express, Prisma, PostgreSQL |
+| **E-ShikshaSarthi** | Scholarship & student assistance platform                       | React, Tailwind                    |
+| **Nirikshak**       | AI-powered compliance verification platform                     | Python, PostgreSQL                 |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditishukla297&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditishukla297&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditishukla297&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditishukla297&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aditishukla297&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=aditishukla297&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -94,7 +95,7 @@ Building secure, responsive web applications and solving real-world problems thr
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditishukla297&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aditishukla297&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
@@ -109,11 +110,11 @@ Building secure, responsive web applications and solving real-world problems thr
 
 ## 💡 Currently Learning
 
-- PHP & Laravel
-- PostgreSQL + Prisma
-- System Design
-- Advanced MERN Development
-- Data Structures & Algorithms
+* PHP & Laravel
+* PostgreSQL + Prisma
+* Advanced MERN Development
+* Data Structures & Algorithms
+* System Design
 
 ---
 
@@ -140,4 +141,8 @@ I'm always interested in collaborating on impactful projects, hackathons, and op
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aditishukla297&style=for-the-badge&color=blueviolet"/>
+</p>
+
+<p align="center">
+  <i>“Building ideas into products, one commit at a time.”</i>
 </p>
