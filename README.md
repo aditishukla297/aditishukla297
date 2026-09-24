@@ -1,27 +1,150 @@
-# 💫 About Me:
-Create a modern, professional GitHub Profile README for Aditi Shukla (@aditishukla297).<br><br>Style:<br>- Clean, dark-theme aesthetic.<br>- Recruiter-friendly and minimal, not cluttered.<br>- Centered header with a professional introduction.<br>- Use Skill Icons instead of too many shields where possible.<br>- Keep sections well-spaced with emojis as headings.<br><br>About Me:<br>- Computer Science Engineering Student<br>- Full Stack Web Developer (MERN)<br>- Passionate about building secure, scalable, responsive web applications.<br>- Smart India Hackathon participant.<br>- Solved 100+ LeetCode problems.<br>- Currently learning PHP, Laravel, Prisma, PostgreSQL, and System Design.<br><br>Social Links:<br>- LinkedIn: https://www.linkedin.com/in/aditishukla40/<br>- GitHub: https://github.com/aditishukla297<br>- Instagram: https://instagram.com/i.aditishukla<br>- Email: mailto:aditishukla29700@gmail.com<br><br>Tech Stack:<br>Languages: C, C++, Java, JavaScript, PHP, HTML5, CSS3<br>Frontend: React, Vite, Tailwind CSS<br>Backend: Node.js, Express.js, PHP<br>Databases: MongoDB, MySQL, PostgreSQL, Prisma<br>Tools: Git, GitHub, VS Code, Vercel, Figma, Canva, Adobe Photoshop<br><br>Featured Projects:<br>- UShort — Full Stack URL Shortener (React, Node.js, Express, MongoDB)<br>- TS-One — Unified Scholarship Platform for Scheduled Tribe Students (React, Express, Prisma, PostgreSQL)<br>- E-ShikshaSarthi — Scholarship & Student Assistance Platform (React, Tailwind)<br>- Nirikshak — AI-powered Compliance Verification Platform (Python, PostgreSQL)<br><br>Include:<br>- GitHub Readme Stats (Tokyo Night theme)<br>- Streak Stats using streak-stats.demolab.com<br>- Top Languages card<br>- GitHub Trophies<br>- Contribution Graph<br>- Profile Views Counter<br><br>Do not include:<br>- Random developer quotes.<br>- Broken or outdated widget URLs.<br>- Excessive animated GIFs.<br><br>End with a short tagline:<br>"Building ideas into products, one commit at a time."
+<h1 align="center">Hi 👋, I'm Aditi Shukla</h1>
+<h3 align="center">Computer Science Engineering Student • Full Stack Web Developer • Smart India Hackathon Builder</h3>
 
+<p align="center">
+Building secure, scalable, and responsive web applications while turning ideas into real-world products.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditi.noapologies) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditishukla40) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aditishukla297) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/33154694) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Aditishukl1238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditishukla29700@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aditishukla297&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aditishukla297&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditishukla297&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aditishukla297&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aditishukla297&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:aditishukla29700@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditishukla40/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/aditi.noapologies">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aditishukla297">
+    <img src="https://img.shields.io/github/followers/aditishukla297?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aditishukla297&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Full Stack Web Developer (MERN)
+- 🏆 Smart India Hackathon Participant
+- 🧩 Solved **100+ LeetCode** problems
+- 🌱 Currently learning **PHP, Laravel, Prisma, PostgreSQL, and System Design**
+- 🎯 Passionate about building impactful products that solve real-world problems.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,python,html,css"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma"/>
+</p>
+
+### Cloud & Dev Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare,aws,figma,photoshop,postman"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **UShort** | Full Stack URL Shortener with analytics | React • Node.js • Express • MongoDB |
+| **TS-One** | Unified Scholarship Platform for Scheduled Tribe Students (SIH) | React • Express • Prisma • PostgreSQL |
+| **E-ShikshaSarthi** | Scholarship & Student Assistance Platform | React • Tailwind |
+| **Nirikshak** | AI-powered Compliance Verification Platform | Python • PostgreSQL |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=aditishukla297&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aditishukla297&theme=dark&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aditishukla297&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aditishukla297&theme=radical&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditishukla297&theme=tokyo-night"/>
+</p>
+
+---
+
+## 💡 Currently Learning
+
+- PHP & Laravel
+- PostgreSQL + Prisma
+- Advanced MERN Development
+- Data Structures & Algorithms
+- System Design
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on impactful projects, hackathons, and open-source contributions.
+
+<p align="center">
+  <a href="mailto:aditishukla29700@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditishukla40/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://instagram.com/aditi.noapologies">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  <a href="https://github.com/aditishukla297">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditishukla297&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <i>Building ideas into products, one commit at a time.</i>
+</p>
