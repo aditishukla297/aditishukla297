@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Shukla</h1>
-<h3 align="center">Computer Science Engineering Student • Full Stack Web Developer • Smart India Hackathon Builder</h3>
+
+<h3 align="center">
+Computer Science Engineering Student • Full Stack Web Developer 
 
 <p align="center">
 Building secure, scalable, and responsive web applications while turning ideas into real-world products.
@@ -37,32 +39,32 @@ Building secure, scalable, and responsive web applications while turning ideas i
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,python,html,css"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,python,html,css" />
 </p>
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
-### Database
+### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma" />
 </p>
 
-### Cloud & Dev Tools
+### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare,aws,figma,photoshop,postman"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare,aws,figma,photoshop,postman" />
 </p>
 
 ---
@@ -81,31 +83,24 @@ Building secure, scalable, and responsive web applications while turning ideas i
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=aditishukla297&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditishukla297&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditishukla297&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aditishukla297&theme=dark&hide_border=false"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aditishukla297&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://streak-stats.demolab.com?user=aditishukla297&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Contributions
+
+> Your contribution graph below is GitHub's native graph, so it never breaks.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditishukla297&theme=radical&no-bg=true&margin-w=8"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditishukla297&theme=tokyo-night"/>
+  <a href="https://github.com/aditishukla297">
+    <img src="https://ghchart.rshah.org/58A6FF/aditishukla297" alt="GitHub Contribution Chart"/>
+  </a>
 </p>
 
 ---
@@ -142,7 +137,7 @@ I'm always interested in collaborating on impactful projects, hackathons, and op
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditishukla297&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=aditishukla297&style=for-the-badge&color=blueviolet"/>
 </p>
 
 <p align="center">
